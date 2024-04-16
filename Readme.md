@@ -2,4 +2,4 @@ Merhaba
 
 deneme merhabna
 
-<a href="www.google.com.tr">Google</a>
+<a href="www.google.com.tr" blank>Google</a>
